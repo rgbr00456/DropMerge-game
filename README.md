@@ -49,10 +49,9 @@ DropMerge-Game/
 No terminal, dentro da pasta do projeto, execute:
 
 ```bash
-gcc -o dropmerge src/main.c
+gcc -o dropmerge src/projeto.c
 ```
 
-> (Adapte esse comando se houver múltiplos arquivos .c)
 
 ### ▶️ Execução
 
@@ -66,17 +65,11 @@ Após compilar, rode:
 
 ## 🎮 Controles
 
-> (Se aplicável — substitua pelos reais)
-
-- **A / D**: mover peças para esquerda/direita
-- **S / Barra de espaço**: acelerar a queda
-- **Q**: sair do jogo
+- Selecione o número da coluna em que deseja colocar a peça e pressione enter.
 
 ---
 
 ## 📸 Imagens (opcional)
-
-> Inclua aqui prints do terminal rodando o jogo (pode usar `Ctrl+Shift+Print` e colar aqui futuramente)
 
 ---
 
