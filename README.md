@@ -69,10 +69,6 @@ Após compilar, rode:
 
 ---
 
-## 📸 Imagens (opcional)
-
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença [MIT] — sinta-se livre para estudar, modificar e compartilhar.
