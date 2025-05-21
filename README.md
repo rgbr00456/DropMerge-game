@@ -86,4 +86,4 @@ Este projeto está sob a licença [MIT] — sinta-se livre para estudar, modific
 
 ---
 
-Desenvolvido por [Seu Nome ou Equipe] 💡
+Desenvolvido por Ricardo Pedrosa. 💡
